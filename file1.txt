@@ -1,1 +1,2 @@
+Hello, adding new lines
 Hello!!! This is new repo with commit
